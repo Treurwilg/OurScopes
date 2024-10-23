@@ -1,2 +1,2 @@
 # OurScopes
-Scope results from the Picoscoop that we use for the Morris proejt
+Scope results from the Picoscope that we use for the Morris project
